@@ -4,9 +4,7 @@ When running the _runas.exe_ command, you cannot specify the password on the com
 # Usage Examples
 
 Example of starting Microsoft SQL Server Management Studio  
-RunAsX.exe /dl:MyDomain\MyUser /p:Password1 /f:"C:\Program Files\ManagementStudio\Ssms.exe"
-
-Example of SSMS with 
+_RunAsX.exe /dl:MyDomain\MyUser /p:Password1 /f:"C:\Program Files\ManagementStudio\Ssms.exe"_
 
 # Documentation
 
